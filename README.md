@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muddasir95
-- 🌱 I’m currently learning jee
+-  This is my first Git Repository
 
 <!---
 muddasir95/muddasir95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
